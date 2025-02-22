@@ -54,6 +54,17 @@ Once you get the Virtual Machine page, click the 'create' button at the top, lef
 <p>When the VM is done being created, you will see 'Your deployment is complete' title at the top. Now you can go back to the Home page and click Virtual Machines again to see your new VM</p>
 <h1></h1>
 
+![VM12](https://github.com/user-attachments/assets/74170afa-38bb-4728-b9b7-9d8b9c3074da)
+<p>Now you can see your new VM is created, but it's not running yet.</p>
+<h1></h1>
+
+![VM13](https://github.com/user-attachments/assets/9eac57d8-8064-419b-887a-227123007505)
+<p>Now that your new VM is 'running', you can access with remote desktop</p>
+<h1></h1>
+
+
+
+
 
 
 
