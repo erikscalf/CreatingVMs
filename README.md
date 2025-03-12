@@ -55,12 +55,16 @@
 
 - Choose your zone, NOTE: The default will be zone 1, but you may have to change it. Then choose image (choose Windows 10 when creating a Windows VM)
 
-![VM7](https://github.com/user-attachments/assets/295f420d-eae7-4d68-ae9f-6c6993a93db7)
-<p> </p>
+![zone](https://github.com/user-attachments/assets/3ea84f41-a6b1-4d4f-8b4a-9f8e98e47b7a)
+
 <h1></h1>
+<br \>
+<br \>
+
+- Choose the size: Standard D2, 8 GiB works for most cases. Now choose a username and password; this is what you will sign into your VM with
 
 ![VM8](https://github.com/user-attachments/assets/04a65752-cf26-460f-bba2-0cd7702e55a8)
-<p>Choose the size (Standard D2, 8 GiB works for most cases). Now choose a username and password; this is what you sign into your VM with</p>
+<p></p>
 <h1></h1>
 
 ![VM9 (1)](https://github.com/user-attachments/assets/76630bd7-083e-42da-b218-5d336bf83968)
