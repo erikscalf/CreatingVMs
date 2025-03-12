@@ -64,28 +64,49 @@
 - Choose the size: Standard D2, 8 GiB works for most cases. Now choose a username and password; this is what you will sign into your VM with
 
 ![VM8](https://github.com/user-attachments/assets/04a65752-cf26-460f-bba2-0cd7702e55a8)
-<p></p>
+
 <h1></h1>
+<br \>
+<br \>
+
+- Scroll to the bottom and leave the ports on the default settings. Be sure to check the box at the bottom left before clicking the 'Review and create' button
 
 ![VM9 (1)](https://github.com/user-attachments/assets/76630bd7-083e-42da-b218-5d336bf83968)
-<p>Scroll to the bottom and leave the ports on the default settings. Be sure to check the box at the bottom left before clicking the 'Review and create' button</p>
-<h1></h1>
 
+<h1></h1>
+<br \>
+<br \>
+
+- Once you see the 'Validation passed' banner at the top, you can click the 'Create' button at the bottom
+  
 ![VM10](https://github.com/user-attachments/assets/6929b24b-8504-47bb-97f2-94ef597ac4df)
-<p>Once you see the 'Validation passed' banner at the top, you can click the 'Create' button at the bottom</p>
-<h1></h1>
 
+<h1></h1>
+<br \>
+<br \>
+
+- When the VM is done being created, you will see 'Your deployment is complete' title at the top. Now you can go back to the Home page and click Virtual Machines again to see your new VM
+  
 ![VM11](https://github.com/user-attachments/assets/1889c265-37a1-44c7-9f7c-27b0a6de7384)
-<p>When the VM is done being created, you will see 'Your deployment is complete' title at the top. Now you can go back to the Home page and click Virtual Machines again to see your new VM</p>
-<h1></h1>
 
-![VM12](https://github.com/user-attachments/assets/74170afa-38bb-4728-b9b7-9d8b9c3074da)
-<p>Now you can see your new VM is created, but it's not running yet.</p>
 <h1></h1>
+<br \>
+<br \>
+
+- Now you can see your new VM is created, but it's not running yet
+  
+![VM12](https://github.com/user-attachments/assets/74170afa-38bb-4728-b9b7-9d8b9c3074da)
+
+<h1></h1>
+<br \>
+<br \>
+
+- Check the box next to the name of your VM
+- Click the 'Start' button at the top center and wait about 20 seconds
+- Refresh the page to see that the status of your VM is 'Running'
+- Now that your VM is running, you can access it using Remote Desktop
 
 ![VM13](https://github.com/user-attachments/assets/9eac57d8-8064-419b-887a-227123007505)
-<p>Now that your new VM is 'running', you can access with remote desktop</p>
-<h1></h1>
 
 
 
